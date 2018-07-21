@@ -77,5 +77,7 @@ Result of packages branch:
 
 2018-07
         
-+ Init adding gettext.js
+ + Init adding gettext.js
+ + Adds version 0.5.4       
+ + Init adding gettext.js
 
